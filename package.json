@@ -1,0 +1,14 @@
+{
+  "name": "curso-cypress-basico",
+  "version": "1.0.0",
+  "description": "Curso de Cypress da Escola TAT - Udemy Cypress Básico",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "Mar Domingos Soares",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  }
+}
